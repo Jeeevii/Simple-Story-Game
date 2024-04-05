@@ -1,6 +1,6 @@
 # Final-Project Core Gameplay
 
-Scene:  https://jeeevii.github.io/CMPM120-Final-Core-Gameplay-Prototype/
+Scene: https://jeeevii.github.io/Simple-Story-Game/
 
 Group Members:
 
